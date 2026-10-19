@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace with the verified production sitemap URL before publishing.
+Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
