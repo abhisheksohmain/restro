@@ -42,7 +42,7 @@ staynest-landing-page/
 
 ## Change the logo
 
-Save the original logo as `images/staynest-logo.png`. The logo is displayed with `object-fit: contain` and a large responsive width. If your logo file has another name, search `index.html` for `staynest-logo.png` and update both occurrences.
+The logo is `images/calcutta-gujarati-samaj-logo.png` (transparent background, no white box). It is used in the header and footer, and `images/favicon.png` is used for the browser tab. To use a new logo, replace both PNG files (keep the same names) or search `index.html` for `calcutta-gujarati-samaj-logo.png`. Logo size is controlled by `.brand img` (header) and `.brand-footer img` (footer) in `css/style.css`. The footer shows the logo only.
 
 ## Replace demo room images
 
